@@ -13,4 +13,4 @@ The Bikeshare project makes use of Python to explore data related to the Bike sh
 Bikeshare.py
 
 ### Credits
-Udacity and rbUdacProjects
+Udacity, rbUdacProjects

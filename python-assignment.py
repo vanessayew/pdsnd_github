@@ -219,7 +219,7 @@ def display_data(df):
         elif ask == 'no':
             break
         elif ask != "yes" and ask != "no":
-            print("Sorry! The input entered is not valid. Please enter again!")
+            print("Sorry! You have entered an invalid input. Please enter again!")
             continue
 
     if ask == 'yes':
@@ -237,7 +237,7 @@ def display_data(df):
             elif show == 'no':
                 break;
             elif show !='yes' and show !='no':
-                print("The input is not valid! Please Enter again!")
+                print("Sorry! You have entered an invalid input! Please Enter again!")
 print('-'*40)
 
 def main():

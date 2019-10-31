@@ -23,7 +23,7 @@ def get_filters():
         if city in ('chicago', 'new york city', 'washington'):
             break
         else:
-            print ('Sorry, this is not a valid city. Please enter again!')
+            print ('Sorry, you have entered an invalid city. Please enter again!')
             continue
 
     while True:
